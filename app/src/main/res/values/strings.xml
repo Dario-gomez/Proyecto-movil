@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mi sitio favorito</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_save">Guardar</string>}
+    <string name="btnCamara">Camara</string>}
+    <string name="google_maps_key">TU_CLAVE_DE_API_DE_GOOGLE_MAPS</string>
+
+
+
+</resources>
